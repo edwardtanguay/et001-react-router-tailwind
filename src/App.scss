@@ -26,6 +26,7 @@ body {
 	.pageWelcome {
 		p {
 			color: orange;
+			@apply bg-[#111] p-2 w-80;
 		}
 	}
 }
