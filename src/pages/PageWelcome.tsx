@@ -1,7 +1,7 @@
 export const PageWelcome = () => {
 	return (
 		<>
-			<p>Welcome to this site.</p>
+			<p className="text-red-600">Welcome to this site.</p>
 		</>
 	);
 };
