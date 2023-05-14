@@ -25,8 +25,7 @@ export default {
       },
       fontFamily:{
         'Poppins':'Poppins',
-        'Righteous':'Righteous',
-        'Josefin':'Josefin Sans'
+        'Shadows': 'Shadows Into Light'
       }
     },
   },
